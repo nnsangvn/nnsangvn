@@ -1,5 +1,7 @@
 <h1 align="left" style="color:black;" >Hey 👋 What's up?</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Alfa+Slab+One&?center=true&lines=Mobile+Application+Developer;Nguyễn+Nhất+Sang)](https://git.io/typing-svg)
+
 ###
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
