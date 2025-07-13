@@ -4,14 +4,15 @@
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-<img align="center"  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Running.png" alt="Man Running" width="25" height="25" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20in%20Lotus%20Position.png" alt="Person in Lotus Position" width="25" height="25" />
 
 </div>
+
 <h3 align="left" style="color:black;"  >Contact</h3>
 
 ###
